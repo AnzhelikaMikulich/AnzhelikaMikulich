@@ -3,7 +3,7 @@
 #### I'm a Frontend Developer
 
 ##### NOW
-- 💻 Web-developer at [ByPRO Company] (https://bypro.by/)
+- 💻 Web-developer at [ByPRO Company](https://bypro.by/)
 - ✨ Student  [The Rolling Scopes School](https://rs.school/);
 - 💻 I'm currently learning everything that connected with web development
 - 📌 [My Portfolio](https://github.com/AnzhelikaMikulich/My-Portfolio/blob/master/README.md)
