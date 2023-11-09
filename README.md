@@ -3,8 +3,7 @@
 #### I'm a Frontend Developer
 
 ##### NOW
-- 💻 Web-developer at [ByPRO Company](https://bypro.by/)
-- ✨ Student  [The Rolling Scopes School](https://rs.school/);
+- 💻 Web-developer at [Webmedia Georgia]([[https://webmedia.ge/])
 - 💻 I'm currently learning everything that connected with web development
 - 📌 [My Portfolio](https://github.com/AnzhelikaMikulich/My-Portfolio/blob/master/README.md)
 
@@ -22,8 +21,10 @@
 - ⚙️ JavaScript
 - ⚙️ TypeScript
 - ⚙️ Webpack
+- ⚙️ Gulp
 - ⚙️ HTML
 - ⚙️ CSS
+- ⚙️ SCSS
 - ⚙️ Git
 - ⚙️ Figma
 - ⚙️ Photoshop
