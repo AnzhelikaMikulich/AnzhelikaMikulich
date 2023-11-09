@@ -3,7 +3,7 @@
 #### I'm a Frontend Developer
 
 ##### NOW
-- 💻 Web-developer at [Webmedia Georgia]([[https://webmedia.ge/])
+- 💻 Web-developer at [Webmedia Georgia]([https://webmedia.ge/)
 - 💻 I'm currently learning everything that connected with web development
 - 📌 [My Portfolio](https://github.com/AnzhelikaMikulich/My-Portfolio/blob/master/README.md)
 
